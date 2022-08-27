@@ -33,7 +33,7 @@
 ## 📟 GitHub Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ashar7&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jishnu-Epics&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashkar7&theme=vue" />
 </p>
 
 ### ✍️Random Dev Quote
